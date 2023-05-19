@@ -1,6 +1,6 @@
 {
   "name": "unvc",
-  "version": "0.0.0-beta.1",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "any-u",
   "main": "dist/index.js",
