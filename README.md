@@ -7,7 +7,7 @@ A universal solution for check page visibility.
 ## Usage
 
 ```bash
-npm i unconfig
+npm i unvc
 ```
 
 ```js
